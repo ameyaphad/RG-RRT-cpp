@@ -4,15 +4,17 @@ Basic implementation of the Reachability-Guided RRT or RG-RRT motion planner for
 
 The **code** repository contains the visualization outputs, along with the main cpp and header files used in the implementation.
 
-
+Using RRT:
 <p align='center'>
     <img src="car_path_visualization_RRT.gif" alt="drawing" width="800"/>
 </p>
 
+Using RG-RRT:
 <p align='center'>
     <img src="car_path_visualization_RGRRT.gif" alt="drawing" width="800"/>
 </p>
 
+Using KPIECE:
 <p align='center'>
     <img src="car_path_visualization_KPIECE.gif" alt="drawing" width="800"/>
 </p>
